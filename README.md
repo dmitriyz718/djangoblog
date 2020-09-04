@@ -15,6 +15,15 @@ In the future, I plan to seek out contributors to the blog, as well as maintain 
 my skills sharp and in focus, especially during the job search so that I do not fall behind or get
 rusty.
 
+# Tech Used
+
+```
+pillow
+sqlite for dev
+postgres tor production
+pip3, python3, virtualenv
+```
+
 # Links to wireframe and ERD:
 
 [ERD](https://app.creately.com/diagram/CQoqBvIHgBa/)

@@ -121,3 +121,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 LOGIN_REDIRECT_URL = 'blog_home'
+LOGIN_URL = 'login'
