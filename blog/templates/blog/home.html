@@ -18,5 +18,10 @@
     </h2>
     <p class="article-content">{{ post.content }}</p>
   </div>
+  <div>
+    <a class="article-title" href="{% url 'post_detail' post.id %}update"
+      >Update</a
+    >
+  </div>
 </article>
 {% endfor %} {% endblock %}
